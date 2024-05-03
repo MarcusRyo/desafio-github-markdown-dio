@@ -1,7 +1,7 @@
 # desafio-github-markdown-dio
 Desafio curso Git e Github DIO
 
-Desafio proposto no curso de Git e Github da DIO para exercitar o aprendizado teorico com a prática.
+Desafio proposto no curso de Git e Github da DIO para exercitar o aprendizado teorico com a prática. Atualizando pelo VS Code.
 
 **Objetivos:**
 

@@ -1,6 +1,8 @@
 # desafio-github-markdown-dio
 Desafio curso Git e Github DIO
 
+Desafio proposto no curso de Git e Github da DIO para exercitar o aprendizado teorico com a prática.
+
 **Objetivos:**
 
   1. Criar sua conta no Github:
